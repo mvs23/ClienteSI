@@ -1,0 +1,7 @@
+#Wed Oct 04 20:33:41 BRT 2017
+base.0=E\:\\Android\\ClienteSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4f46721ea49fe8b9337a94bf41185287dfed07b3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\ClienteSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6\\classes.dex
+base.1=E\:\\Android\\ClienteSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6
+file.0=E\:\\Android\\ClienteSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4f46721ea49fe8b9337a94bf41185287dfed07b3\\classes.dex

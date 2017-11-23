@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\.android\build-cache\4b4a187da4c0fbc26a037495454ded52f76bf6f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\ARQDSIS\Android\ClienteSI\app\build\intermediates\pre-dexed\debug\classes_e7ca029bf5da1a4523c45a7da73ca782c33e7645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\ARQDSIS\Android\ClienteSI\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_618589fcda15e3a6ff62652903fac4d79ffd4390.jar" />
+    </item>
+
+</items>

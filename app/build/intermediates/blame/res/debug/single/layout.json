@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhe_cliente.xml",
+        "source": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\src\\main\\res\\layout\\activity_detalhe_cliente.xml"
+    },
+    {
+        "merged": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lista_clientes.xml",
+        "source": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\src\\main\\res\\layout\\activity_lista_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Alunos\\ARQDSIS EXERCICIOS-20171123T212618Z-001\\ARQDSIS EXERCICIOS\\ClienteSI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\ClienteSI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lista_clientes.xml",
+        "source": "E:\\Android\\ClienteSI\\app\\src\\main\\res\\layout\\activity_lista_clientes.xml"
+    },
+    {
+        "merged": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lista_clientes.xml",
+        "source": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\src\\main\\res\\layout\\activity_lista_clientes.xml"
+    },
+    {
+        "merged": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhe_cliente.xml",
+        "source": "F:\\ARQDSIS\\Android\\ClienteSI\\app\\src\\main\\res\\layout\\activity_detalhe_cliente.xml"
+    }
+]
